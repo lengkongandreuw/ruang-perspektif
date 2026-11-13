@@ -1,11 +1,13 @@
-# Ruang Perspektif
+# VoxProperty
 
-Penjelajah 3D rumah dua lantai, dengan tampilan fasad depan dan belakang, potongan lantai, serta galeri render.
+Explore the Garden Residence in 3D, including its street and garden façades, furnished floor cutaways, and render gallery.
 
-Unduh `index.html` dan buka di Chrome atau Edge dengan WebGL aktif. Semua aset sudah tertanam di dalam file sehingga bisa dijalankan secara offline.
+[Open the live residence explorer](https://lengkongandreuw.github.io/ruang-perspektif/)
 
-- Pilih fasad atau lantai dari panel kiri.
-- Seret untuk memutar model, gulir untuk zoom, dan seret dengan tombol kanan untuk menggeser kamera.
-- Pilih **Kualitas → Ringan** untuk mengurangi beban grafis.
+For offline use, download `index.html` and open it in a browser with WebGL. The model and gallery are embedded in the file.
 
-Penampil 3D menggunakan [three.js](https://github.com/mrdoob/three.js) dengan lisensi MIT.
+- Select a façade or floor from the navigation panel.
+- Drag to orbit, scroll to zoom, and right-drag to pan.
+- Choose **Quality → Low** to reduce graphics load.
+
+The viewer uses [three.js](https://github.com/mrdoob/three.js) under the MIT license.
